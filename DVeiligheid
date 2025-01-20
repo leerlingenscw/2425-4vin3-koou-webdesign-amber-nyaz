@@ -5,14 +5,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <title>Mijn Website</title>
-  <link href="style.css" rel="stylesheet" type="text/css" />
-  <link href="DVeiligheid" />
+  <link href="SDVeiligheid.css" rel="stylesheet" type="text/css" />
   </head>
 
   <body>
     <div id="wrapper">
       <header></header>
-      <nav><a href="DVeiligheid" target="_self"> www.w3schools.com </a></nav>
+      <nav>he;llo</nav>
       <article id="hoofd"></article>
       <article id="extra"></article>
       <article id="png"></article>

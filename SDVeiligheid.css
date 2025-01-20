@@ -18,67 +18,60 @@
 
 /* add your css here, feel free to use comments and order them logically for better readability */
 * {
-   margin: 0;
- }
-  
- body {
-   background-color: #fbe8ffff;
- }
-  
- #wrapper {
-   background-color: #fbe8ffff;
-   height: 100vh;
-   padding: 10px;
-   margin: auto;
- }
-  
- header {
-   background-color: #b76798ff;
-   width: 100%;
-   height: 10%;
-   margin-bottom: 10px;
- }
-  
- #hoofd {
-  background-color: #e0a6d0;
-   width: 65%;
+    margin: 0;
+  }
+   
+  body {
+    background-color: #fbe8ffff;
+  }
+   
+  #wrapper {
+    background-color: #fbe8ffff;
+    height: 100vh;
+    padding: 10px;
+    margin: auto;
+  }
+   
+  header {
+    background-color: #b76798ff;
+    width: 100%;
+    height: 10%;
+    margin-bottom: 10px;
+  }
+   
+  #hoofd {
+   background-color: #e0a6d0;
+    width: 65%;
+    height: 90%;
+    margin: 10px 10px 10px 10px;
+    cursor: pointer;
+    float: left;
+  }
+ 
+  #extra {
+    background-color: #d291b8ff;
+    width: 20%;
+    height: 45%;
+    margin: 1% 1% 1% 1%;
+    cursor: pointer;
+    float: right;
+  }
+ 
+ 
+ 
+  nav {
+   background-color: #d291b8ff;
+   float: left;
+   width: 10%;
    height: 90%;
    margin: 10px 10px 10px 10px;
-   cursor: pointer;
-   float: left;
- }
-
- #extra {
-  background-color: #d291b8ff;
-  width: 20%;
-  height: 45%;
-  margin: 1% 1% 1% 1%;
-  cursor: pointer;
-  float: right;
- }
-
-#png {
-  background-color:#d291b8ff;
-  width: 20%;
-  height: 40%;
-  margin: 1% 1% 1% 1%;
-  float: right;
- 
-}
-
- nav {
-  background-color: #d291b8ff;
-  float: left;
-  width: 10%;
-  height: 90%;
-  margin: 10px 10px 10px 10px;
- }
-  
- footer {
-   clear: both;
-   background-color: #b76798ff;
-   width: 100%;
-   height: 10%;
+  }
    
-
- }
+  footer {
+    clear: both;
+    background-color: #b76798ff;
+    width: 100%;
+    height: 10%;
+    
+ 
+  }
